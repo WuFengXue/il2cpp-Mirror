@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.0",
+    "configProperties": {
+      "System.GC.Server": true,
+      "System.Runtime.TieredCompilation.QuickJit": false
+    }
+  }
+}
