@@ -3,8 +3,9 @@
 
 * 从 Unity IDE 中提取出的 il2cpp 文件夹（含部分源码） / il2cpp directory extract from Unity IDE (contains partial source code)
 * 提取路径 /  Extrat Path ：
-  * Mac：/Applications/Unity/Unity.app/Contents/il2cpp
-* 用于 IL2CPP 编译的游戏逆向分析 / Useful in IL2CPP Game reverse
+  * Windows：..\Editor\Data\il2cpp
+  * OSX：/Applications/Unity/Unity.app/Contents/il2cpp
+* 用于 IL2CPP 编译的游戏逆向分析 / Useful in IL2CPP Game reverse & analyze
 
 ## 版本对应关系 / Version support
 
@@ -23,7 +24,10 @@
 | 2019.2-2019.3 |      24.2      |                       |                                                              |         |
 |    2020.1     |      24.3      |  2020.1.0a25 (Beta)   |                                                              |   Yes   |
 
+## Unity 历史版本下载地址 / Unity Download link
+
+* [Unity-Releases](https://unity.cn/releases)
+
 ## 感谢 / Credits
 
 * [djkaty - Il2CppInspector](https://github.com/djkaty/Il2CppInspector)
-* [Perfare - Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
